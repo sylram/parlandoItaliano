@@ -1,0 +1,15 @@
+{
+  "name": "parlando-italiano",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Italian conversation practice for Spanish speakers, powered by Claude.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

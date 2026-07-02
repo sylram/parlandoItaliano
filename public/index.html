@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Parlando Italiano</title>
+  <link rel="stylesheet" href="/css/styles.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">Parlando Italiano</p>
+        <h1>Impara italiano parlando</h1>
+      </div>
+      <nav class="tab-nav" role="tablist">
+        <button id="tab-conversazione" class="tab-button active" data-tab="conversazione" type="button">Conversazione</button>
+        <button id="tab-flashcards" class="tab-button" data-tab="flashcards" type="button">Flashcards</button>
+      </nav>
+    </header>
+
+    <main>
+      <section id="conversazione" class="tab-panel active" role="tabpanel">
+        <div class="panel-intro">
+          <div>
+            <h2>Conversación con voz</h2>
+            <p>Habla en italiano, recibe correcciones y guarda palabras nuevas en tus flashcards.</p>
+          </div>
+          <div class="status-pill">
+            <span class="status-dot connected"></span>
+            Backend listo
+          </div>
+        </div>
+
+        <div class="chat-shell">
+          <div id="chat-window" class="chat-window"></div>
+          <div class="input-group">
+            <div class="voice-row">
+              <button id="mic-button" class="icon-button" type="button">🎙️</button>
+              <span id="speech-status">Presiona para hablar en italiano</span>
+            </div>
+            <textarea id="chat-input" placeholder="Escribe o habla en italiano..." rows="2"></textarea>
+            <div class="actions-row">
+              <button id="send-button" class="primary-button" type="button">Enviar</button>
+              <button id="clear-chat-button" class="secondary-button" type="button">Limpiar chat</button>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="flashcards" class="tab-panel" role="tabpanel">
+        <div class="panel-intro">
+          <div>
+            <h2>Flashcards</h2>
+            <p>Revisa tu vocabulario y agrega nuevas palabras desde la conversación.</p>
+          </div>
+          <div id="flashcard-banner" class="banner hidden">Se agregaron nuevas palabras desde tu última conversación.</div>
+        </div>
+
+        <div class="flashcards-controls">
+          <label>
+            Categoría
+            <select id="flashcard-category-select">
+              <option value="Todas">Todas</option>
+              <option value="Números">Números</option>
+              <option value="Días">Días</option>
+              <option value="Meses">Meses</option>
+              <option value="Colores">Colores</option>
+              <option value="Presentaciones">Presentaciones</option>
+              <option value="Vida diaria">Vida diaria</option>
+            </select>
+          </label>
+          <button id="refresh-flashcards" class="secondary-button" type="button">Actualizar</button>
+        </div>
+
+        <div class="flashcard-grid" id="flashcard-grid"></div>
+
+        <form id="flashcard-form" class="flashcard-form">
+          <h3>Agregar palabra manualmente</h3>
+          <label>
+            Italiano
+            <input id="new-italian" type="text" placeholder="Parola italiana" />
+          </label>
+          <label>
+            Pronunciación
+            <input id="new-pronunciation" type="text" placeholder="pronunciación aproximada" />
+          </label>
+          <label>
+            Español
+            <input id="new-spanish" type="text" placeholder="traducción en español" />
+          </label>
+          <label>
+            Categoría
+            <input id="new-category" type="text" placeholder="Números, Días, Meses, Colores..." />
+          </label>
+          <button id="add-flashcard-button" class="primary-button" type="button">Agregar flashcard</button>
+        </form>
+      </section>
+    </main>
+  </div>
+
+  <script type="module" src="/js/speech.js"></script>
+  <script type="module" src="/js/app.js"></script>
+  <script type="module" src="/js/chat.js"></script>
+  <script type="module" src="/js/flashcards.js"></script>
+</body>
+</html>

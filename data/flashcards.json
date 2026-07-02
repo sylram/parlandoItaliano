@@ -1,0 +1,548 @@
+[
+  {
+    "italiano": "uno",
+    "pronunciacion": "U-no",
+    "espanol": "uno",
+    "categoria": "Números"
+  },
+  {
+    "italiano": "due",
+    "pronunciacion": "DU-e",
+    "espanol": "dos",
+    "categoria": "Números"
+  },
+  {
+    "italiano": "tre",
+    "pronunciacion": "TRE",
+    "espanol": "tres",
+    "categoria": "Números"
+  },
+  {
+    "italiano": "quattro",
+    "pronunciacion": "KUA-tro",
+    "espanol": "cuatro",
+    "categoria": "Números"
+  },
+  {
+    "italiano": "cinque",
+    "pronunciacion": "CHIN-kue",
+    "espanol": "cinco",
+    "categoria": "Números"
+  },
+  {
+    "italiano": "sei",
+    "pronunciacion": "SEI",
+    "espanol": "seis",
+    "categoria": "Números"
+  },
+  {
+    "italiano": "sette",
+    "pronunciacion": "SE-te",
+    "espanol": "siete",
+    "categoria": "Números"
+  },
+  {
+    "italiano": "otto",
+    "pronunciacion": "O-to",
+    "espanol": "ocho",
+    "categoria": "Números"
+  },
+  {
+    "italiano": "nove",
+    "pronunciacion": "NO-ve",
+    "espanol": "nueve",
+    "categoria": "Números"
+  },
+  {
+    "italiano": "dieci",
+    "pronunciacion": "DIE-chi",
+    "espanol": "diez",
+    "categoria": "Números"
+  },
+  {
+    "italiano": "lunedì",
+    "pronunciacion": "lu-ne-DI",
+    "espanol": "lunes",
+    "categoria": "Días"
+  },
+  {
+    "italiano": "martedì",
+    "pronunciacion": "mar-te-DI",
+    "espanol": "martes",
+    "categoria": "Días"
+  },
+  {
+    "italiano": "mercoledì",
+    "pronunciacion": "mer-ko-le-DI",
+    "espanol": "miércoles",
+    "categoria": "Días"
+  },
+  {
+    "italiano": "giovedì",
+    "pronunciacion": "jo-ve-DI",
+    "espanol": "jueves",
+    "categoria": "Días"
+  },
+  {
+    "italiano": "venerdì",
+    "pronunciacion": "ve-ner-DI",
+    "espanol": "viernes",
+    "categoria": "Días"
+  },
+  {
+    "italiano": "sabato",
+    "pronunciacion": "SA-ba-to",
+    "espanol": "sábado",
+    "categoria": "Días"
+  },
+  {
+    "italiano": "domenica",
+    "pronunciacion": "do-ME-ni-ka",
+    "espanol": "domingo",
+    "categoria": "Días"
+  },
+  {
+    "italiano": "gennaio",
+    "pronunciacion": "je-NA-io",
+    "espanol": "enero",
+    "categoria": "Meses"
+  },
+  {
+    "italiano": "febbraio",
+    "pronunciacion": "feb-BRA-io",
+    "espanol": "febrero",
+    "categoria": "Meses"
+  },
+  {
+    "italiano": "marzo",
+    "pronunciacion": "MAR-tso",
+    "espanol": "marzo",
+    "categoria": "Meses"
+  },
+  {
+    "italiano": "aprile",
+    "pronunciacion": "a-PRI-le",
+    "espanol": "abril",
+    "categoria": "Meses"
+  },
+  {
+    "italiano": "maggio",
+    "pronunciacion": "MA-jo",
+    "espanol": "mayo",
+    "categoria": "Meses"
+  },
+  {
+    "italiano": "giugno",
+    "pronunciacion": "JU-nyo",
+    "espanol": "junio",
+    "categoria": "Meses"
+  },
+  {
+    "italiano": "luglio",
+    "pronunciacion": "LU-lyo",
+    "espanol": "julio",
+    "categoria": "Meses"
+  },
+  {
+    "italiano": "agosto",
+    "pronunciacion": "a-GOS-to",
+    "espanol": "agosto",
+    "categoria": "Meses"
+  },
+  {
+    "italiano": "settembre",
+    "pronunciacion": "se-TEM-bre",
+    "espanol": "septiembre",
+    "categoria": "Meses"
+  },
+  {
+    "italiano": "ottobre",
+    "pronunciacion": "o-TO-bre",
+    "espanol": "octubre",
+    "categoria": "Meses"
+  },
+  {
+    "italiano": "novembre",
+    "pronunciacion": "no-VEM-bre",
+    "espanol": "noviembre",
+    "categoria": "Meses"
+  },
+  {
+    "italiano": "dicembre",
+    "pronunciacion": "di-CHEM-bre",
+    "espanol": "diciembre",
+    "categoria": "Meses"
+  },
+  {
+    "italiano": "rosso",
+    "pronunciacion": "RO-so",
+    "espanol": "rojo",
+    "categoria": "Colores"
+  },
+  {
+    "italiano": "blu",
+    "pronunciacion": "BLU",
+    "espanol": "azul",
+    "categoria": "Colores"
+  },
+  {
+    "italiano": "verde",
+    "pronunciacion": "VER-de",
+    "espanol": "verde",
+    "categoria": "Colores"
+  },
+  {
+    "italiano": "giallo",
+    "pronunciacion": "JA-lo",
+    "espanol": "amarillo",
+    "categoria": "Colores"
+  },
+  {
+    "italiano": "nero",
+    "pronunciacion": "NE-ro",
+    "espanol": "negro",
+    "categoria": "Colores"
+  },
+  {
+    "italiano": "bianco",
+    "pronunciacion": "BIAN-ko",
+    "espanol": "blanco",
+    "categoria": "Colores"
+  },
+  {
+    "italiano": "arancione",
+    "pronunciacion": "a-ran-CHO-ne",
+    "espanol": "naranja",
+    "categoria": "Colores"
+  },
+  {
+    "italiano": "viola",
+    "pronunciacion": "VIO-la",
+    "espanol": "morado",
+    "categoria": "Colores"
+  },
+  {
+    "italiano": "rosa",
+    "pronunciacion": "RO-sa",
+    "espanol": "rosa",
+    "categoria": "Colores"
+  },
+  {
+    "italiano": "grigio",
+    "pronunciacion": "GRI-jo",
+    "espanol": "gris",
+    "categoria": "Colores"
+  },
+  {
+    "italiano": "Mi chiamo...",
+    "pronunciacion": "mi KIA-mo",
+    "espanol": "Me llamo...",
+    "categoria": "Presentaciones"
+  },
+  {
+    "italiano": "Come ti chiami?",
+    "pronunciacion": "KO-me ti KIA-mi",
+    "espanol": "¿Cómo te llamas?",
+    "categoria": "Presentaciones"
+  },
+  {
+    "italiano": "Piacere",
+    "pronunciacion": "pia-CHE-re",
+    "espanol": "Mucho gusto",
+    "categoria": "Presentaciones"
+  },
+  {
+    "italiano": "Ho ... anni",
+    "pronunciacion": "o ... A-ni",
+    "espanol": "Tengo ... años",
+    "categoria": "Presentaciones"
+  },
+  {
+    "italiano": "Sono di...",
+    "pronunciacion": "SO-no di",
+    "espanol": "Soy de...",
+    "categoria": "Presentaciones"
+  },
+  {
+    "italiano": "Come stai?",
+    "pronunciacion": "KO-me STAI",
+    "espanol": "¿Cómo estás?",
+    "categoria": "Presentaciones"
+  },
+  {
+    "italiano": "Bene, grazie",
+    "pronunciacion": "BE-ne GRA-tsie",
+    "espanol": "Bien, gracias",
+    "categoria": "Presentaciones"
+  },
+  {
+    "italiano": "Ciao",
+    "pronunciacion": "CHAO",
+    "espanol": "Hola / Adiós",
+    "categoria": "Presentaciones"
+  },
+  {
+    "italiano": "Buongiorno",
+    "pronunciacion": "buon-JOR-no",
+    "espanol": "Buenos días",
+    "categoria": "Presentaciones"
+  },
+  {
+    "italiano": "Arrivederci",
+    "pronunciacion": "a-ri-ve-DER-chi",
+    "espanol": "Hasta luego",
+    "categoria": "Presentaciones"
+  },
+  {
+    "italiano": "mi chiamo",
+    "pronunciacion": "mi KIA-mo",
+    "espanol": "me llamo",
+    "categoria": "verbo / presentación"
+  },
+  {
+    "italiano": "di dove sei?",
+    "pronunciacion": "di DÓ-ve séi",
+    "espanol": "¿de dónde eres?",
+    "categoria": "pregunta"
+  },
+  {
+    "italiano": "la capitale",
+    "pronunciacion": "la ca-pi-TÁ-le",
+    "espanol": "la capital",
+    "categoria": "sustantivo"
+  },
+  {
+    "italiano": "sono",
+    "pronunciacion": "SO-no",
+    "espanol": "soy / estoy",
+    "categoria": "verbo"
+  },
+  {
+    "italiano": "di dove",
+    "pronunciacion": "di DO-ve",
+    "espanol": "de dónde",
+    "categoria": "expresión"
+  },
+  {
+    "italiano": "bellissima",
+    "pronunciacion": "bel-LIS-si-ma",
+    "espanol": "hermosísima / muy hermosa",
+    "categoria": "adjetivo"
+  },
+  {
+    "italiano": "benvenuta",
+    "pronunciacion": "ben-ve-NU-ta",
+    "espanol": "bienvenida",
+    "categoria": "adjetivo"
+  },
+  {
+    "italiano": "molto bene",
+    "pronunciacion": "MOL-to BE-ne",
+    "espanol": "muy bien",
+    "categoria": "expresión"
+  },
+  {
+    "italiano": "compleanno",
+    "pronunciacion": "com-ple-AN-no",
+    "espanol": "cumpleaños",
+    "categoria": "sustantivo"
+  },
+  {
+    "italiano": "tredici",
+    "pronunciacion": "TRE-di-chi",
+    "espanol": "trece",
+    "categoria": "número"
+  },
+  {
+    "italiano": "pratichiamo",
+    "pronunciacion": "pra-ti-KIA-mo",
+    "espanol": "practiquemos / practicamos",
+    "categoria": "verbo"
+  },
+  {
+    "italiano": "praticare",
+    "pronunciacion": "pra-ti-KA-re",
+    "espanol": "practicar",
+    "categoria": "verbo"
+  },
+  {
+    "italiano": "insieme",
+    "pronunciacion": "in-SIEM-e",
+    "espanol": "juntos",
+    "categoria": "adverbio"
+  },
+  {
+    "italiano": "mamma",
+    "pronunciacion": "MAM-ma",
+    "espanol": "mamá",
+    "categoria": "sustantivo"
+  },
+  {
+    "italiano": "di mia mamma",
+    "pronunciacion": "di MIA MAM-ma",
+    "espanol": "de mi mamá",
+    "categoria": "expresión"
+  },
+  {
+    "italiano": "oggi",
+    "pronunciacion": "OD-ji",
+    "espanol": "hoy",
+    "categoria": "Vida diaria"
+  },
+  {
+    "italiano": "giornata",
+    "pronunciacion": "jor-NAH-tah",
+    "espanol": "día (jornada)",
+    "categoria": "Vida diaria"
+  },
+  {
+    "italiano": "i mesi",
+    "pronunciacion": "i ME-si",
+    "espanol": "los meses",
+    "categoria": "Meses"
+  },
+  {
+    "italiano": "l'anno",
+    "pronunciacion": "LAN-no",
+    "espanol": "el año",
+    "categoria": "Meses"
+  },
+  {
+    "italiano": "fa caldo",
+    "pronunciacion": "fa KAL-do",
+    "espanol": "hace calor",
+    "categoria": "Vida diaria"
+  },
+  {
+    "italiano": "quanti anni hai",
+    "pronunciacion": "KUAN-ti AN-ni AI",
+    "espanol": "¿cuántos años tienes?",
+    "categoria": "Presentaciones"
+  },
+  {
+    "italiano": "nata",
+    "pronunciacion": "NA-ta",
+    "espanol": "nacida",
+    "categoria": "Vida diaria"
+  },
+  {
+    "italiano": "trentasette",
+    "pronunciacion": "tren-ta-SÉ-te",
+    "espanol": "treinta y siete",
+    "categoria": "Números"
+  },
+  {
+    "italiano": "nomi",
+    "pronunciacion": "NO-mi",
+    "espanol": "sustantivos / nombres",
+    "categoria": "Vida diaria"
+  },
+  {
+    "italiano": "libro",
+    "pronunciacion": "LI-bro",
+    "espanol": "libro",
+    "categoria": "Vida diaria"
+  },
+  {
+    "italiano": "gatto",
+    "pronunciacion": "GAT-to",
+    "espanol": "gato",
+    "categoria": "Vida diaria"
+  },
+  {
+    "italiano": "casa",
+    "pronunciacion": "CA-sa",
+    "espanol": "casa",
+    "categoria": "Vida diaria"
+  },
+  {
+    "italiano": "i numeri",
+    "pronunciacion": "i NU-me-ri",
+    "espanol": "los números",
+    "categoria": "Números"
+  },
+  {
+    "italiano": "undici",
+    "pronunciacion": "UN-di-chi",
+    "espanol": "once",
+    "categoria": "Números"
+  },
+  {
+    "italiano": "dodici",
+    "pronunciacion": "DO-di-chi",
+    "espanol": "doce",
+    "categoria": "Números"
+  },
+  {
+    "italiano": "quattordici",
+    "pronunciacion": "quat-TOR-di-chi",
+    "espanol": "catorce",
+    "categoria": "Números"
+  },
+  {
+    "italiano": "quindici",
+    "pronunciacion": "QUIN-di-chi",
+    "espanol": "quince",
+    "categoria": "Números"
+  },
+  {
+    "italiano": "sedici",
+    "pronunciacion": "SE-di-chi",
+    "espanol": "dieciséis",
+    "categoria": "Números"
+  },
+  {
+    "italiano": "diciassette",
+    "pronunciacion": "di-cha-SET-te",
+    "espanol": "diecisiete",
+    "categoria": "Números"
+  },
+  {
+    "italiano": "diciotto",
+    "pronunciacion": "di-CHOT-to",
+    "espanol": "dieciocho",
+    "categoria": "Números"
+  },
+  {
+    "italiano": "diciannove",
+    "pronunciacion": "di-chan-NO-ve",
+    "espanol": "diecinueve",
+    "categoria": "Números"
+  },
+  {
+    "italiano": "conoscerti",
+    "pronunciacion": "co-NOS-cher-ti",
+    "espanol": "conocerte",
+    "categoria": "Presentaciones"
+  },
+  {
+    "italiano": "stanco / stanca",
+    "pronunciacion": "stan-co / stan-ca",
+    "espanol": "cansado / cansada",
+    "categoria": "Vida diaria"
+  },
+  {
+    "italiano": "come si dice",
+    "pronunciacion": "co-me si di-che",
+    "espanol": "¿cómo se dice?",
+    "categoria": "Presentaciones"
+  },
+  {
+    "italiano": "stanca",
+    "pronunciacion": "STAN-ka",
+    "espanol": "cansada",
+    "categoria": "Vida diaria"
+  },
+  {
+    "italiano": "dormire",
+    "pronunciacion": "dor-MI-re",
+    "espanol": "dormir",
+    "categoria": "Vida diaria"
+  },
+  {
+    "italiano": "buonanotte",
+    "pronunciacion": "buo-na-NOT-te",
+    "espanol": "buenas noches",
+    "categoria": "Presentaciones"
+  }
+]
